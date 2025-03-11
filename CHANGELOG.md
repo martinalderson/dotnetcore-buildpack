@@ -2,6 +2,10 @@
 
 ## 2025-03-11
 
+- Updated .NET Core 10.0.100-preview.1
+
+## 2025-03-11
+
 - Updated .NET Core 9.0.200
 
 ## 2024-11-19
