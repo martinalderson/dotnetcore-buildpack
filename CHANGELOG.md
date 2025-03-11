@@ -1,5 +1,57 @@
 # .NET Core Buildpack Changelog
 
+## 2025-03-11
+
+- Updated .NET Core 9.0.200
+
+## 2024-11-19
+
+- Updated .NET Core 9.0.100
+
+## 2024-10-07
+
+- Updated .NET Core 8.0.402
+
+## 2024-05-15
+
+- Updated .NET Core 8.0.300
+
+## 2024-02-20
+
+- Updated .NET Core 8.0.201
+
+## 2023-11-15
+
+- Updated .NET Core 8.0.100
+
+## 2023-09-15
+
+- Updated .NET Core 7.0.401
+
+## 2023-08-10
+
+- Updated .NET Core 7.0.400
+
+## 2023-07-28
+
+- Updated .NET Core 7.0.306
+
+## 2023-06-14
+
+- Updated .NET Core 7.0.304
+
+## 2023-04-12
+
+- Updated .NET Core 7.0.203
+
+## 2023-02-17
+
+- Updated .NET Core 7.0.200
+
+## 2023-01-26
+
+- Updated .NET Core 7.0.102
+
 ## 2024-10-07
 
 - Updated SDK 9.0.100-rc.1
@@ -80,27 +132,76 @@
 
 - Updated .NET Core 7.0.100-preview.1
 
+## 2022-10-12
+
+- Updated .NET SDK 6.0.402
+
+## 2022-08-10
+
+- Updated .NET SDK 6.0.400
+
+## 2022-07-13
+
+- Updated .NET SDK 6.0.302
+
+## 2022-06-15
+
+- Updated .NET SDK 6.0.301
+
+## 2022-05-11
+
+- Updated .NET SDK 6.0.300
+
+## 2022-04-14
+
+- Updated .NET SDK 6.0.202
+
+## 2022-03-10
+
+- Updated .NET SDK 6.0.201
+
+## 2022-02-11
+
+- Updated .NET SDK 6.0.102
+
+## 2021-12-24
+
+- Updated .NET SDK 6.0.101
+
+## 2021-11-08
+
+- Updated .NET 6
+
 ## 2021-10-13
 
+- Updated .NET Core v5.0.402
 - Updated .NET Core 6.0.100-rc.2
 
 ## 2021-09-15
 
+- Updated .NET Core v5.0.401
 - Updated .NET Core 6.0.100-rc.1
 
 ## 2021-08-12
 
+- Updated .NET Core v5.0.400
 - Updated .NET Core v6.0.100-preview.7
 
 ## 2021-07-15
 
+- Updated .NET Core v5.0.302
 - Updated .NET Core v6.0.100-preview.6
 
 ## 2021-06-18
 
+- Updated .NET Core v5.0.301
 - Updated .NET Core v6.0.100-preview.5
 
 ## 2021-05-26
+
+- Updated .NET Core v6.0.100-preview.4
+
+## 2021-04-07
 
 - Updated .NET Core v6.0.100-preview.4
 
@@ -109,6 +210,9 @@
 - Updated .NET Core v6.0.100-preview.3
 
 ## 2021-03-12
+
+
+- Updated .NET Core v5.0.201
 
 - Updated .NET Core v6.0.100-preview.2.21155.3
 
