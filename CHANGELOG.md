@@ -2,6 +2,10 @@
 
 ## 2025-03-11
 
+- Updated .NET Core 10.0.100-preview.1
+
+## 2025-03-11
+
 - Updated .NET Core 9.0.200
 
 ## 2024-11-19
@@ -51,6 +55,46 @@
 ## 2023-01-26
 
 - Updated .NET Core 7.0.102
+
+## 2024-10-07
+
+- Updated SDK 9.0.100-rc.1
+
+## 2024-03-26
+
+- Updated SDK 9.0.0-preview.2
+
+## 2024-02-20
+
+- Updated SDK 9.0.0-preview.1
+
+## 2023-09-15
+
+- Updated SDK SDK 8.0.100-rc.1
+
+## 2023-08-10
+
+- Updated SDK 8.0.100-preview.7
+
+## 2023-07-12
+
+- Updated SDK 8.0.100-preview.6
+
+## 2023-06-14
+
+- Updated 8.0.100-preview.5.23303.2
+
+## 2023-05-17
+
+- Updated .NET Core 8.0.100-preview.4
+
+## 2023-04-12
+
+- Updated .NET Core 8.0.100-preview.3
+
+## 2023-02-27
+
+- Updated .NET Core 8.0.100-preview.1
 
 ## 2022-11-13
 
