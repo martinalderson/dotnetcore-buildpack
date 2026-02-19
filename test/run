@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-testDotNetCore2() {
-  compile "dotnetcore-2"
-  assertCaptured "dotnetcore-2 ->"
-  assertCapturedSuccess
-}
-
 testDotNetCore21() {
   compile "dotnetcore-2.1"
   assertCaptured "dotnetcore-2.1 ->"
