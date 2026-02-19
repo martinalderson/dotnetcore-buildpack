@@ -1,5 +1,9 @@
 # .NET Core Buildpack Changelog
 
+## 2026-02-19
+
+- Updated .NET Core 10.0.103
+
 ## 2025-11-19
 
 - Updated .NET Core 10.0.100
